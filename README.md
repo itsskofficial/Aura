@@ -7,15 +7,15 @@
     A modern video sharing mobile application built with React Native and Expo.
     <br/>
     <br/>
-    <a href="https://github.com/itsskofficial/Machine-Learning/tree/main/Projects/Aura">View Demo</a>
-    ·
-    <a href="https://github.com/itsskofficial/Machine-Learning/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/itsskofficial/Machine-Learning/issues">Request Feature</a>
+    <a href="https://github.com/itsskofficial/Aura/tree/main/Projects/Aura">View Demo</a>
+    Â·
+    <a href="https://github.com/itsskofficial/Aura/issues">Report Bug</a>
+    Â·
+    <a href="https://github.com/itsskofficial/Aura/issues">Request Feature</a>
   </p>
 </p>
 
-![License](https://img.shields.io/github/license/itsskofficial/Machine-Learning) 
+![License](https://img.shields.io/github/license/itsskofficial/Aura) 
 
 ## Table Of Contents
 
@@ -64,7 +64,7 @@ You need to have Node.js and npm installed on your machine. It is also highly re
 
 1. **Clone the repo**
    ```sh
-   git clone https://github.com/itsskofficial/Machine-Learning.git
+   git clone https://github.com/itsskofficial/Aura.git
    ```
 
 2. **Navigate to the project directory**
